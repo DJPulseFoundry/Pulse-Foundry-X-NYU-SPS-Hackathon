@@ -117,6 +117,17 @@ These are suggestions, not requirements.
 
 ---
 
+## How to Submit
+
+Projects are submitted on Pulse, not DevPost.
+
+1. Go to the [hackathon page on Pulse](https://pulsefoundry.ai/hackathons/6ada7c5ed712f06a00f14548).
+2. Log in with the email address you used to register for this hackathon.
+3. Check that inbox for a one-time passcode, and enter it to finish logging in.
+4. Fill in your project details and submit.
+
+---
+
 ## Judging Criteria
 
 | Criterion | What judges are looking for |
